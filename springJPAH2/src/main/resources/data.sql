@@ -1,0 +1,1 @@
+insert into departments (department_id,department_name,manager_id,location_id) values (60,'Comercial',0,0);
